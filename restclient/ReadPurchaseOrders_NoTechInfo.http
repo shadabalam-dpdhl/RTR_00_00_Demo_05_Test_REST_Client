@@ -1,0 +1,5 @@
+###
+get http://localhost:4004/read-purchase-orders-no-tech-info/PurchaseOrders
+
+###
+get http://localhost:4004/read-purchase-orders-no-tech-info/Suppliers

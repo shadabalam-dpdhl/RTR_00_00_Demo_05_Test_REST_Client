@@ -1,0 +1,5 @@
+###
+post http://localhost:4004/create-purchase-orders/PurchaseOrders
+Content-Type: application/json
+
+{"POId":"10003","DeliveryAddress":"White House Street","GrossAmount":600,"Supplier": { "Id":"LA1"}}
